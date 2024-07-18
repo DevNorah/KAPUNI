@@ -326,6 +326,7 @@ main {
     }
 }
 
+
 @media (max-width: 480px) {
     .product-card {
         width: calc(100% - 20px);
