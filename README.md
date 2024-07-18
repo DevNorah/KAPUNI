@@ -2,6 +2,9 @@
 
 KAPUNI is a simple e-commerce web application that allows users to view items with their prices and add them to cart.
 
+
+![screenshot](Images/Kapuni.png)
+
 ## INSTALLATION
 
 1. Clone the repository from https://github.com/DevNorah/KAPUNI
